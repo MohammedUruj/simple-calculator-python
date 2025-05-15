@@ -1,1 +1,1 @@
-# simple-calculator-python
+Country capital quiz
