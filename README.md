@@ -1,1 +1,1 @@
-Country capital quiz
+simple calculator using pythom
